@@ -1,9 +1,8 @@
 ===============
-TYPO3 explained
+ توصیف تایپوتری
 ===============
 
-This official TYPO3 documentation is *the* main document about the enterprise content
-management system TYPO3.
+این سندراهنمای تایپوتری، راهنمای *اصلی*  سامانۀ مدیریت محتوای سازمانی تایپوتری است.
 
 :Repository: https://github.com/TYPO3-Documentation/TYPO3CMS-Reference-CoreApi
 :Published at: https://docs.typo3.org/typo3cms/CoreApiReference/
